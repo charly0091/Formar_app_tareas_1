@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "Ir a trabajar primer turno",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Almorzar",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "Repasar contenido del Playground",
+        "estado": "en proceso"
+    },
+    {
+        "titulo": "Descanso y cafe",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Ir a trabajar segundo turno",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "Dormir",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "levantarse",
+        "estado": "pendiente"
+    }
+]
